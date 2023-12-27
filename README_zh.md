@@ -1,7 +1,7 @@
 VirtualSMC
 ========
 
-[![Build Status](https://travis-ci.com/acidanthera/VirtualSMC.svg?branch=master)](https://travis-ci.com/acidanthera/VirtualSMC) [![Scan Status](https://scan.coverity.com/projects/16571/badge.svg?flat=1)](https://scan.coverity.com/projects/16571)
+[![Build Status](https://travis-ci.com/devicemanager/VirtualSMC.svg?branch=master)](https://travis-ci.com/devicemanager/VirtualSMC) [![Scan Status](https://scan.coverity.com/projects/16571/badge.svg?flat=1)](https://scan.coverity.com/projects/16571)
 
 高级的 Apple SMC 核心模拟。 需要 [Lilu](https://github.com/vit9696/Lilu) 作为依赖以正常工作。
 

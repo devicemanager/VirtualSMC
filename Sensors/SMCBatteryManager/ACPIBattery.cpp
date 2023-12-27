@@ -296,7 +296,7 @@ bool ACPIBattery::updateRealTimeStatus(bool quickPoll) {
 
 	// Sometimes this value can be either reported incorrectly or miscalculated
 	// and exceed the actual capacity. Simply workaround it by capping the value.
-	// REF: https://github.com/acidanthera/bugtracker/issues/565
+	// REF: https://github.com/devicemanager/bugtracker/issues/565
 	if (st.remainingCapacity > st.lastFullChargeCapacity)
 		st.remainingCapacity = st.lastFullChargeCapacity;
 

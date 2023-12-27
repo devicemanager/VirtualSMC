@@ -383,7 +383,7 @@ bool VirtualSMCKeystore::mergePredefined(const char *board, int model) {
 	if (gen >= 3) {
 		// Force 2nd generation on 3rd as it currently causes sleep issues due to AppleSMCPMC
 		// being used by AppleIntelPCHPMC.kext. More details can be found in
-		// https://github.com/acidanthera/bugtracker/issues/388
+		// https://github.com/devicemanager/bugtracker/issues/388
 		gen = 2;
 	}
 

@@ -8,9 +8,9 @@ in `_BIF`, `_BIX` and `_BST`, but you still need to split them for proper readin
 
 ## Requirements
 
-- [MaciASL](https://github.com/acidanthera/MaciASL)
+- [MaciASL](https://github.com/devicemanager/MaciASL)
 - Dump of native DSDT
-- [SSDT-BATS](https://github.com/acidanthera/VirtualSMC/blob/master/Docs/SSDT-BATS.dsl)
+- [SSDT-BATS](https://github.com/devicemanager/VirtualSMC/blob/master/Docs/SSDT-BATS.dsl)
 
 ## Implementation
 Required method (`CBIS`, `CBSS`) for supplement information is under the same active battery device for `_BST` etc.,

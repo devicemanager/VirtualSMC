@@ -486,7 +486,7 @@ Field (ERAM, ByteAcc, NoLock, Preserve)
 ```
 </details>
 
-_Note_: Found and tested by @1alessandro1. Only one fan header exists, so both fans will be reported in sync as a single fan as shown [here](https://github.com/acidanthera/bugtracker/issues/395#issuecomment-808756416).
+_Note_: Found and tested by @1alessandro1. Only one fan header exists, so both fans will be reported in sync as a single fan as shown [here](https://github.com/devicemanager/bugtracker/issues/395#issuecomment-808756416).
 
 ### HP Pavilion 15-cb073tx (`generic`)
 
